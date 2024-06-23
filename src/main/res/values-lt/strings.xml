@@ -87,7 +87,7 @@
     <string name="_summary_prefscreen_notifications">Pranešimo būdai, atidėjimo laikas ir t. t.</string>
     <string name="_title_pref_notification_methods">Pritaikymas</string>
     <string name="_title_min_supply_days">Papildymo priminimas</string>
-    <string name="_summary_min_supply_days">Kiek dienų iki vaisto pasibaigimo bus rodomas pranešimas - dabar %1$s</string>
+    <string name="_summary_min_supply_days">Kiek dienų likus iki vaisto atsargų pabaigos bus rodomas pranešimas - dabar %1$s</string>
     <string name="_title_pref_use_led">LED</string>
     <string name="_title_pref_use_sound">Garsas</string>
     <string name="_title_pref_use_vibrator">Vibracija</string>
@@ -116,7 +116,7 @@
     <string name="_title_tablet">Tabletė</string>
     <string name="_title_capsule">Kapsulė</string>
     <string name="_title_inhaler">Inhaliatorius</string>
-    <string name="_title_injection">Šviršktas</string>
+    <string name="_title_injection">Švirkštas</string>
     <string name="_title_spray">Purškalas</string>
     <string name="_title_drop">Stiklinė</string>
     <string name="_title_gel">Tūbelė</string>
@@ -124,7 +124,7 @@
     <string name="_title_other">Kita</string>
     <string name="_title_ampoule">Ampuolė</string>
     <string name="_title_iv_bag">Intraveninis</string>
-    <string name="_title_pipette">Akių lašai</string>
+    <string name="_title_pipette">Pipetė</string>
     <string name="_title_daily">Kasdien</string>
     <string name="_title_every_n_days">Kas N dienų</string>
     <string name="_title_pick_days">Pasirinktos dienos</string>
@@ -152,9 +152,9 @@
         arba paspauskite šį tekstą norėdami pakeisti dozę <b>%1$s</b>.
     ]]></string>
     <string name="_title_weekdays">Darbo dienos</string>
-    <string name="_title_on_demand">Kiek reikia</string>
-    <string name="_title_delete_item">Tikrai pašalinti %1$s?</string>
-    <string name="_msg_delete_drug">Atšaukti negalima!</string>
+    <string name="_title_on_demand">Pagal poreikį</string>
+    <string name="_title_delete_item">Tikrai pašalinti \"%1$s\"?</string>
+    <string name="_msg_delete_drug">Atšaukti negalėsite!</string>
     <string name="_toast_db_reset_success">Duomenų bazė sėkmingai atstatya.</string>
     <string name="_toast_db_reset_failure">Duomenų bazės atstatymas nepavyko. Prašome įdiegti iš naujo.</string>
     <string name="_btn_exit">Išeiti</string>
